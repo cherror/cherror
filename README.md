@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+
+[![Solved.ac](http://mazassumnida.wtf/api/v2/generate_badge?boj=cherror)](https://solved.ac/cherror)
+
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cherror&layout=compact)](https://github.com/cherror/github-readme-stats)
+
 <!--
 **cherror/cherror** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
