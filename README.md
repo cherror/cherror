@@ -1,4 +1,7 @@
-### Hi there 👋
+# Hi there 👋
+안녕하세요. <br>
+한초희입니당 스껄 😼🤟☘️✨
+ <br> 
 
 
 <div style="text-align: left;">
@@ -19,14 +22,14 @@
     <div style="text-align: left;">
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🧑‍💻 Contact me </h2> <br> 
     <div align= "center"> <a href=https://www.instagram.com/b1ess_u_/> <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white&link=https://www.instagram.com/b1ess_u_/"> </a>
-         <a href=https://blog.naver.com/91ut0> <img src="https://img.shields.io/badge/Naver-03C75A?style=for-the-badge&logo=Naver&logoColor=white&link=https://blog.naver.com/91ut0"> </a>
+         <a href=https://blog.naver.com/91ut0> <img src="https://img.shields.io/badge/Naver Blog-03C75A?style=for-the-badge&logo=Naver&logoColor=white&link=https://blog.naver.com/91ut0"> </a>
           </div>  <br> 
     <div align= "center"> <a href="https://hits.seeyoufarm.com"> <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fcherror%2F&count_bg=%23000000&title_bg=%23000000&icon=github.svg&icon_color=%23FFFFFF&title=GitHub&edge_flat=false"/></a>
        </div> 
     </div>
     <div style="text-align: left;"> 
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🏅 Stats </h2> <div align= "center"> <img src="https://github-readme-stats.vercel.app/api?username=cherror&bg_color=60,ffebeb,fffcf0&title_color=864152&text_color=864152"
-         /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cherror&layout=compact&bg_color=60,ffebeb,fffcf0&title_color=864152&text_color=864152"
+         />  <br>  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cherror&layout=compact&bg_color=60,ffebeb,fffcf0&title_color=864152&text_color=864152"
            /> </div> 
     </div>
     
