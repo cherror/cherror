@@ -30,5 +30,7 @@
     <div style="text-align: left;"> 
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Smileys/Star%20Struck.webp" alt="Star Struck" width="25" height="25" /><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Animals%20and%20Nature/Shamrock.webp" alt="Shamrock" width="25" height="25" /> Stats </h2> <div align= "center"> <img src="https://github-readme-stats.vercel.app/api?username=cherror&bg_color=60,ffebeb,fffcf0&title_color=864152&text_color=864152"
          />  <br>  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cherror&layout=compact&bg_color=60,ffebeb,fffcf0&title_color=864152&text_color=864152"
-           /> </div> 
+           /> </div>
     </div>
+### Solved.ac Profile
+[![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=cherror)](https://solved.ac/cherror)
