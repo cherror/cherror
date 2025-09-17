@@ -44,3 +44,7 @@
         <img src="http://mazandi.herokuapp.com/api?handle=cherror&theme=warm"/>
     </div>
 </div>
+
+<a href="https://github.com/devxb/gitanimals">
+  <img src="https://render.gitanimals.org/farms/{cherror}"/>
+</a>
